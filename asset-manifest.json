@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.3a82ea05.css",
-    "main.js": "/static/js/main.564f469e.js",
+    "main.css": "/static/css/main.1dde1644.css",
+    "main.js": "/static/js/main.96e4b4af.js",
     "static/media/profile.png": "/static/media/profile.f5fdb0ba0f53fa0bc439.png",
     "static/media/youtube.png": "/static/media/youtube.5381fa7f0dfc2ff744c0.png",
-    "static/media/fabbag.png": "/static/media/fabbag.f5194659934d7108d1a4.png",
     "static/media/beauty.png": "/static/media/beauty.caa19739349a49de4a24.png",
     "static/media/banner-woman2.webp": "/static/media/banner-woman2.484a3b40fee634e4b12f.webp",
+    "static/media/nutrimeter.png": "/static/media/nutrimeter.85d4cb64bf34c937ab5d.png",
     "static/media/testimonial-2.webp": "/static/media/testimonial-2.4c1e7c2fe42e548d2e0f.webp",
     "static/media/wrike1.png": "/static/media/wrike1.fd446a3f09d948d5e06e.png",
     "static/media/chakra.png": "/static/media/chakra.c0fe0e95c137c17f3896.png",
@@ -21,11 +21,11 @@
     "static/media/testimonial-1.webp": "/static/media/testimonial-1.8e05fd5dbc71387931b5.webp",
     "static/media/about.svg": "/static/media/about.192e39ff229e6eb06083.svg",
     "index.html": "/index.html",
-    "main.3a82ea05.css.map": "/static/css/main.3a82ea05.css.map",
-    "main.564f469e.js.map": "/static/js/main.564f469e.js.map"
+    "main.1dde1644.css.map": "/static/css/main.1dde1644.css.map",
+    "main.96e4b4af.js.map": "/static/js/main.96e4b4af.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a82ea05.css",
-    "static/js/main.564f469e.js"
+    "static/css/main.1dde1644.css",
+    "static/js/main.96e4b4af.js"
   ]
 }
